@@ -1,9 +1,5 @@
 /*
- * Veer Desai
  * 3/12/25
- * CSE 123
- * C3: Best of the Best
- * TA: Isayiah Lim
  */
 import java.io.*;
 import java.util.*;
@@ -15,7 +11,6 @@ import java.util.*;
  *      The collection can also get created or updated by adding in items one at a time.
  */
 public class CollectionManager {
-    // TODO: Implement your CollectionManager here! 
     private FootballPlayerNode root;
 
     /*
